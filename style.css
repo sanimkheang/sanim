@@ -1,0 +1,80 @@
+body{
+    color: rgb(29, 1, 16);
+    background-color: beige;
+}
+h1 {
+    color: brown;
+    background-color: rgb(254, 175, 247);
+    width: 1080px;
+    text-align: center;
+    height: fit-content;
+    font-size: 50;
+}
+.hoho {
+    color: rgb(136, 0, 48);
+}
+.hoho:hover {
+    border: 2px dotted yellow;
+    transition: 1s;
+}
+
+#info {
+    color: rgb(28, 55, 176);
+}
+#table_style {
+    background-color: rgb(255, 163, 226);
+    border: 1px solid black;
+   border-collapse: collapse;
+    width: 1243px;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+#table_style th {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+#table_style tr {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+#table_style td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+
+
+#tftable {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:12px;
+    background-color: rgb(207, 115, 253);
+    border: 1px solid black;
+    border-collapse: collapse;
+    width:1243px
+
+}
+#tftable th {
+    border: 1px solid black;
+    font-size:12px;
+  background-color: rgb(207, 115, 253);
+    border-color: #000000;
+    text-align:left;
+}
+#tftable tr {
+    background-color: rgb(239, 207, 255);
+}
+#tftable td {
+    font-size:12px;
+    border-width: 1px;
+    padding: 8px;
+    border-style: solid;
+    background-color: rgb(239, 207, 255);
+}
+#tftable tr:hover {
+    background-color:#ffffff;
+}
+.hehe {
+    width: 1243px;
+}
